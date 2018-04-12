@@ -1,14 +1,3 @@
-// ES5:
-/*
-var express = require('express');
-var path    = require('path');
-var open    = require('open');
-var chalk   = require('chalk');
-
-var port    = 3000;
-var app     = express();
-*/
-
 // ES6: => babel-node ...
 import express from 'express';
 import path    from 'path';
